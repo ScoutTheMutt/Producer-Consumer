@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+rm ./producer_odd_output.txt ./producer_even_output.txt ./consumer_odd_output.txt ./consumer_even_output.txt
